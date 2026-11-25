@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Isaac
 
-<!--
-**isaacjbronson-Log/isaacjbronson-Log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | C++ Programmer | Robotics Lead Programmer
 
-Here are some ideas to get you started:
+I'm a high school senior interested in software engineering, problem-solving, and developing efficient software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently the Lead Programmer for my school's VEX Robotics team, where I work primarily with C++ to develop autonomous routines, driver-control systems, and PID control implementations.
+
+### Technical Skills
+- C++
+- VEX Robotics
+- PID Control
+- Autonomous Programming
+- Driver-Control Programming
+- Visual Studio Code
+
+### Featured Projects
+Projects showcasing my programming experience and engineering problem-solving will be added here.
+
+### Current Goals
+- Expand my C++ development experience.
+- Develop a portfolio of technical projects.
+- Improve my software engineering skills.
+- Explore professional software development opportunities.
